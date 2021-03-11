@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+<name>Python on Wii</name>
+<coder>Nicholas Campbell</coder>
+<version>rev1</version>
+<release_date>20210311000000</release_date>
+<short_description>POW(Python on Wii)</short_description>
+<long_description>Python on Wii proof of concept development
+</long_description>
+</app>
